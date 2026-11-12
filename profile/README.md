@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/SwaDeshiTech/prodhub">
+  <img src="https://raw.githubusercontent.com/SwaDeshiTech/.github/main/assets/prodhub-pixel-icon.png" width="220" alt="ProdHub pixel-art deployment hub icon">
+</a>
+
 # SwaDeshiTech
 
 ### Build it once. Ship it anywhere. Operate it with confidence.
